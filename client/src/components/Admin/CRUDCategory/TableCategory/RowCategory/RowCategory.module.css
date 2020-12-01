@@ -1,0 +1,55 @@
+th{
+    line-height: 25px;
+    padding: 10px 4px;
+}
+.container_edit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container_delete{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.description{
+    width: 55%;
+}
+@media (max-width: 500px){
+    .description{
+        display: none;
+    }
+}
+.button_edit{
+    /* background-color: #ab47bc; */
+    background-color: transparent;
+    border: none;
+    padding: 12px;
+    color: #fff;
+    margin: 16px 0;
+    font-size:12px;
+    border-radius: 8px;
+    cursor: pointer;
+    outline: none;
+}
+.button_edit:hover{
+   
+    background-color: #ab47bc;
+}
+.button_delete{
+    /* background-color: #ab47bc; */
+    background-color: transparent;
+    border: none;
+    padding: 12px;
+    color: #fff;
+    margin: 16px 0;
+    font-size:12px;
+    border-radius: 8px;
+    cursor: pointer;
+    outline: none;
+}
+.button_delete:hover{
+    background-color: #ab47bc;
+}
+ /* background: linear-gradient(60deg,#ab47bc,#7b1fa2);   */
