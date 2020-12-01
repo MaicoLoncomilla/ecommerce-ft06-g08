@@ -3,7 +3,7 @@
 </p>
 # Henry
 
-### <a href="https://wultur.herokuapp.com/" target="_blank">DEMO</a>
+### <a href="https://wultur.herokuapp.com/" target="_BLANK">DEMO</a>
 
 ## Objetivos del Proyecto
 
