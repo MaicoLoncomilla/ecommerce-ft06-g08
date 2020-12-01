@@ -4,6 +4,46 @@
 
 ### <a href="https://wultur.herokuapp.com/" target="_BLANK">DEMO</a>
 
+### Contributors
+<a href="https://github.com/MaicoLoncomilla" target="_BLANK">Maico Loncomilla</a> <br>
+<a href="https://github.com/JavierBalonga" target="_BLANK">Javier Balonga</a> <br>
+<a href="https://github.com/cesesteban" target="_BLANK">Esteban Céspedes</a> <br>
+<a href="https://github.com/Nahuelsan" target="_BLANK">Nahuel Sanchez</a> <br>
+<a href="https://github.com/Nacho077" target="_BLANK">Ignacio Gimenez</a> <br>
+<a href="https://github.com/Leonardo-vinas" target="_BLANK">Leonardo Vinas</a> <br>
+
+## Wultur
+This is a student project we made as part of our education at <a href="https://www.soyhenry.com/">Henry</a>
+
+### Our stack of tecnologies:
+
+<ul>
+    <li>Front End:
+        <ul>
+            <li>HTML - CSS (vanilla) - Javascript </li>
+            <li>React js</li>
+            <li>Redux</li>
+        </ul>
+    </li>
+    <br>
+    <li>Back End:
+        <ul>
+            <li>Node.js</li>
+            <li>Express</li>
+            <li>Passport</li>
+            <li>Sequelize</li>
+            <li>Multer</li>
+        </ul>
+    </li>
+    <br>
+    <li>Database:
+        <ul>
+            <li>PostgreSQL</li>
+        </ul>
+    </li>
+</ul>
+
+
 ## Objetivos del Proyecto
 
 - Construir una App JavaScript desde cero.
